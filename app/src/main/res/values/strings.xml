@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Movie Memoir Home Screen</string>
+    <string name="google_maps_key">AIzaSyDBSLnGOpob69cbFCMP4kynEMJ9o_sWxDE</string>
+    <string-array name="sp_years">
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+    </string-array>
+    <string-array name="stateArray">
+        <item>WA</item>
+        <item>NSW</item>
+        <item>VIC</item>
+        <item>SA</item>
+        <item>NT</item>
+        <item>QLD</item>
+    </string-array>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+
+</resources>
