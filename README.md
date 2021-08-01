@@ -11,6 +11,7 @@ Create the database:
 3. Memoir 
 4. MemoirUser
 #Restful API 返还接收 来自前端的数据
+#  
  1.MemoirClassSource
  2.MemoirClasse.Source.service
  JSON  + Jquery
