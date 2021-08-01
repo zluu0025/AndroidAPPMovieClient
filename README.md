@@ -16,8 +16,7 @@ Create the database:
  JSON  + Jquery
  
 # client-End
-NetworkConnection(Restufl APi) + OKhttp for login  +  ROOM Persistence layer DAO access to the database
-google map API +  Google Custom Search + Chart display UI
+NetworkConnection(Restufl APi) + OKhttp for login  +  ROOM Persistence layer DAO access to the database + google map API +  Google Custom Search + Chart display UI
 1.Network Connection for Restful Api
 2.OK HTTP
 3.ROOM + DAO
