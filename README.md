@@ -4,6 +4,7 @@ UNI Course assignment project exercise
 # Back_End
 NetBeans + glassfish 4.1 server + RESTful API + Jquery 
 Create the database:
+
 # Tables 
 1. Cinema 
 2. Credential
@@ -14,7 +15,7 @@ Create the database:
  2.MemoirClasse.Source.service
  JSON  + Jquery
  
-#client-End
+# client-End
 NetworkConnection(Restufl APi) + OKhttp for login  +  ROOM Persistence layer DAO access to the database
 google map API +  Google Custom Search + Chart display UI
 1.Network Connection for Restful Api
