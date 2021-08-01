@@ -1,5 +1,6 @@
 # AndroidAPPMovieClient
 UNI Course assignment project exercise
+### This index is just for recovering the tasks of this assignment and refine technical tasks
 
 # Back_End
 NetBeans + glassfish 4.1 server + RESTful API + Jquery 
@@ -26,4 +27,4 @@ NetworkConnection(Restufl APi) + OKhttp for login  +  ROOM Persistence layer DAO
 4. Google Map + Custome Search(Movive DB Api ) <br/>
 5.Chart display  for rating and other results <br/>
 
-This index is just for recovering the tasks of this assignment and refine technical tasks
+
